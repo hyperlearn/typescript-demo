@@ -1,0 +1,12 @@
+console.log("hello, world!");
+var x = 5;
+var y = 6;
+var z = 2;
+var empId = 5;
+var empId2 = 7;
+// empId = false;
+var empName = "Elon Musk";
+var anyType = { name: 'Chandler', job: 'asdasd' };
+var numbers = [4, 5];
+// numbers.push("a");
+console.log(x, y, z);
